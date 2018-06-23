@@ -1,0 +1,178 @@
+@charset "UTF-8";
+/*Menu */
+.menu {
+  background-color: #2c3e50;
+  height: 80px; }
+
+.nav-link {
+  color: white;
+  margin-top: 2%; }
+
+.active-izq {
+  float: left;
+  font-size: 150%; }
+
+.free {
+  color: white;
+  margin-top: 2%; }
+
+/* Seccion Freelancer */
+.seccion-freelancer {
+  background-color: #18bc9c;
+  height: 580px; }
+
+.img1 {
+  display: block;
+  margin: auto;
+  margin-top: 7%; }
+
+.txt-freelancer {
+  color: white;
+  text-align: center;
+  margin-top: 3%;
+  font-size: 300%; }
+
+.hr-estrella1 {
+  width: 35px;
+  height: 4px;
+  margin-left: 130%;
+  background-color: white; }
+
+.hr-estrella2 {
+  width: 35px;
+  height: 4px;
+  margin-right: 550%;
+  background-color: white; }
+
+.estrella {
+  color: white;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  margin-left: 40%; }
+
+.txt-web {
+  text-align: center;
+  color: white;
+  font-size: 155%; }
+
+/*seccion┬┤portafolio */
+.seccion-portafolio {
+  margin-bottom: 5%; }
+
+.txt-portafolio {
+  text-align: center;
+  margin-top: 6%; }
+
+.hr-estrella1-1 {
+  width: 35px;
+  height: 4px;
+  margin-left: 130%;
+  background-color: black; }
+
+.hr-estrella2-2 {
+  width: 35px;
+  height: 4px;
+  margin-right: 550%;
+  background-color: black; }
+
+.estrella-2 {
+  color: black;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  margin-left: 40%;
+  margin-bottom: 7%; }
+
+.imagenes {
+  width: 100%;
+  margin-bottom: 5%; }
+
+/*seccion-about */
+.seccion-about {
+  background-color: #18bc9c;
+  height: 600px; }
+
+.txt-about {
+  text-align: center;
+  color: white;
+  margin-top: 6%; }
+
+.parrafo1 {
+  color: white;
+  text-align: izq; }
+
+.parrafo2 {
+  color: white; }
+
+.margen {
+  margin-left: 280px; }
+
+.btn-view {
+  display: block;
+  margin: auto; }
+
+.btn-view {
+  background-color: #18bc9c;
+  white: 9px;
+  height: 45px;
+  color: white; }
+
+.descarga {
+  color: white; }
+
+/*Contact */
+.seccion-contacto {
+  margin-bottom: 5%; }
+
+.txt-contacto {
+  text-align: center;
+  margin-top: 5%; }
+
+.form-group {
+  width: 40%;
+  display: block;
+  margin: auto; }
+
+.btn-send {
+  margin-left: 30%;
+  background-color: #18bc9c;
+  color: white;
+  width: 70px;
+  height: 45px; }
+
+/*Pie de pagina */
+.piedepagina {
+  background-color: #2c3e50;
+  color: white;
+  height: 200px; }
+
+.txt-location {
+  text-align: center;
+  margin-top: 5%; }
+
+.verde {
+  color: #18bc9c; }
+
+.icono {
+  margin-left: 2%; }
+
+.iconos {
+  margin-left: 5%;
+  margin-left: 25%; }
+
+.txt-location {
+  text-align: center; }
+
+.txt-around {
+  text-align: center;
+  margin-top: 5%; }
+
+.txt-aboutfreelancer {
+  text-align: center;
+  margin-top: 5%; }
+
+.txt-aboutfree {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
