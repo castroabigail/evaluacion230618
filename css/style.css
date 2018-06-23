@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*Menu */
 .menu {
   background-color: #2c3e50;
@@ -15,8 +16,99 @@
   color: white;
   margin-top: 2%; }
 
-/* Seccion Portafolio */
+/* Seccion Freelancer */
+.seccion-freelancer {
+  background-color: #18bc9c;
+  height: 580px; }
+
+.img1 {
+  display: block;
+  margin: auto;
+  margin-top: 7%; }
+
+.txt-freelancer {
+  color: white;
+  text-align: center;
+  margin-top: 3%;
+  font-size: 300%; }
+
+.hr-estrella1 {
+  width: 35px;
+  height: 4px;
+  margin-left: 130%;
+  background-color: white; }
+
+.hr-estrella2 {
+  width: 35px;
+  height: 4px;
+  margin-right: 550%;
+  background-color: white; }
+
+.estrella {
+  color: white;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  margin-left: 40%; }
+
+.txt-web {
+  text-align: center;
+  color: white;
+  font-size: 155%; }
+
+/*seccion┬┤portafolio */
+.seccion-portafolio {
+  margin-bottom: 5%; }
+
+.txt-portafolio {
+  text-align: center;
+  margin-top: 6%; }
+
+.hr-estrella1-1 {
+  width: 15%;
+  height: 4%;
+  margin-left: 130%;
+  background-color: black; }
+
+.hr-estrella2-2 {
+  width: 15%;
+  height: 4%;
+  margin-right: 550%;
+  background-color: black; }
+
+.estrella-2 {
+  color: black;
+  width: 45%;
+  height: 45%;
+  text-align: center;
+  margin-left: 40%; }
+
 .imagenes {
-  width: 95%; }
+  width: 100%;
+  margin-bottom: 5%; }
+
+/*seccion-about */
+.seccion-about {
+  background-color: #18bc9c;
+  height: 700px; }
+
+.txt-about {
+  text-align: center;
+  color: white;
+  margin-top: 6%; }
+
+.parrafo1 {
+  color: white;
+  text-align: izq; }
+
+.parrafo2 {
+  color: white; }
+
+.margen {
+  margin-left: 280px; }
+
+.btn-view {
+  display: block;
+  margin: auto; }
 
 /*# sourceMappingURL=style.css.map */
